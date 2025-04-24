@@ -1,5 +1,13 @@
 # HR-Attrition-Analysis.
 
+## Table Of Content
+  - [Project Overview ](#project-overview)
+  - [Data Source](#data-source)
+  - [Tools](#tools)
+  - [Processes](#processes)
+  - [Key Insights](#key-insights)
+  - [Recommendations and Business Implications](#recommendations and business-implications)
+
 ### Project Overview 
 This project aims to develop an interactive HR Attrition Analysis Dashboard using Power BI to explore and visualize factors contributing to employee turnover within an organization.
 The goal is to build a tool that helps HR professionals and business leaders:
@@ -15,7 +23,7 @@ The goal is to build a tool that helps HR professionals and business leaders:
 - Power Query - Data Cleaning & manipulation
 - Power BI - Data visualization
 
-### Process
+### Processes
 
 #### 1. **Data Collection & Understanding**
 - Gathered HR data containing details on employee demographics, job roles, satisfaction levels, and attrition status.
@@ -41,7 +49,7 @@ The goal is to build a tool that helps HR professionals and business leaders:
 - Integrated slicers for Department and Job Role to enable dynamic filtering and personalized exploration.  
 - Applied conditional formatting and color coding to emphasize high-risk areas (e.g., roles with high attrition or low satisfaction).
 
-### Insights
+### Key Insights
 1. **High Overall Attrition Rate**
 - **16.1%** of employees have left the organization (237 out of 1,470).
 - Indicates a pressing need for retention strategies.
