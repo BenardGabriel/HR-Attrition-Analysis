@@ -8,6 +8,11 @@
   - [Key Insights](#key-insights)
   - [Recommendations and Business Implications](#recommendations-and-business-implications)
 
+![Screenshot 2025-04-23 202211](https://github.com/user-attachments/assets/4857df78-d73d-431d-b862-cedc6b2610a7)
+![Screenshot 2025-04-23 202236](https://github.com/user-attachments/assets/7d44c91a-adc0-460e-a69f-6e9a9495b296)
+
+
+
 ### Project Overview 
 This project aims to develop an interactive HR Attrition Analysis Dashboard using Power BI to explore and visualize factors contributing to employee turnover within an organization.
 The goal is to build a tool that helps HR professionals and business leaders:
