@@ -6,7 +6,7 @@
   - [Tools](#tools)
   - [Processes](#processes)
   - [Key Insights](#key-insights)
-  - [Recommendations and Business Implications](#recommendations and business-implications)
+  - [Recommendations and Business Implications](#recommendations-and-business-implications)
 
 ### Project Overview 
 This project aims to develop an interactive HR Attrition Analysis Dashboard using Power BI to explore and visualize factors contributing to employee turnover within an organization.
@@ -82,7 +82,7 @@ The goal is to build a tool that helps HR professionals and business leaders:
 - **Single employees**, particularly males, were more likely to leave.
 - May reflect different lifestyle needs, expectations, or flexibility preferences.
 
-### 📌 **Recommendations and Business Implications**
+###  Recommendations and Business Implications
 
 #### 1. **Strengthen Retention Strategies Organization-Wide**
 **Recommendation:**  
